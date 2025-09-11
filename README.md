@@ -1,4 +1,3 @@
-# About Me:
 I am a student with a passion for writing code and exploring new technologies. My primary focus is on software development and building solutions that are efficient, reliable, and maintainable.<br><br>🌱 I’m currently learning Full Stack Development
 
 

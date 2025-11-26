@@ -56,22 +56,6 @@ Currently strengthening my expertise in **Microservices, Spring Security, RESTfu
 
 <br>
 
-## 🚀 Featured Projects
-(Replace with your actual projects – highly recommended!)
-
-| Project | Tech Stack | Live | Source |
-|---------|------------|------|--------|
-| E-Commerce Platform | Spring Boot + React + MySQL | [Live Demo](#) | [GitHub](#) |
-| Task Management App | Spring Security + JWT + React + PostgreSQL | [Live](#) | [GitHub](#) |
-| Banking Dashboard | Spring Boot + Hibernate + React + Tailwind | [Live](#) | [GitHub](#) |
-
-<br>
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
-
-<br>
 
 **Always open to collaborate on Java Spring Boot + React projects!**  
 Feel free to reach out for internships, freelance, or full-time opportunities. 💼

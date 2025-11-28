@@ -1,33 +1,32 @@
-<!-- HEADER -->
-<h1 align="center">🌟 Hi, I'm Dip — Java Full Stack Developer</h1>
-<h3 align="center">Turning ideas into clean, scalable & production-ready applications</h3>
+<h1 align="center">Hi, I'm Dip 👋</h1>
+<h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/GV0xqv2.gif" width="500"/>
+  Turning ideas into clean, efficient, and production-ready code.
 </p>
 
 ---
 
 ## 🌱 About Me
-Passionate **Java Full Stack Developer** with expertise in building high-quality, end-to-end web applications.
+Passionate **Java Full Stack Developer** with strong expertise in building robust backend systems and modern, responsive frontends.
 
-I work with:  
-- ⚙️ **Java, Spring Boot, Microservices**  
-- 🎨 **React.js, Tailwind CSS**  
-- ☁️ **AWS, Docker, Cloud Deployment**  
+I specialize in:
+- Java, Spring Boot, Spring MVC, Spring Security  
+- React.js, JavaScript, Tailwind CSS  
+- REST APIs, Microservices, Docker, AWS  
 
-Currently strengthening skills in **Kubernetes, System Design & Distributed Architectures**.
-
----
-
-# 🚀 Tech Stack
+Currently improving skills in:
+**Microservices, Spring Security, Kubernetes, Cloud Deployment & Redis**
 
 ---
+
+# 💻 Tech Stack
 
 ## 🛠️ Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -67,18 +66,11 @@ Currently strengthening skills in **Kubernetes, System Design & Distributed Arch
 
 ---
 
-## 🔧 Currently Learning
+## 📘 Currently Learning / Next Goals
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
----
-
-# ✨ Animated Divider
-<p align="center">
-  <img src="https://i.imgur.com/9qZqZ5C.gif" width="600"/>
 </p>
 
 ---
@@ -89,7 +81,7 @@ Currently strengthening skills in **Kubernetes, System Design & Distributed Arch
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/_xencrypt">
-    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:humlink@zohomail.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -98,10 +90,6 @@ Currently strengthening skills in **Kubernetes, System Design & Distributed Arch
 
 ---
 
-# 🤝 Open for Collaborations
-💼 Internships • Freelance • Full-time Roles  
-🌱 Java | Spring Boot | React | Microservices
+# 🤝 Open to Collaborations
+I'm always happy to collaborate on **Java Spring Boot + React projects**, or explore internship, freelance, and full-time opportunities.
 
-<p align="center">
-  <img src="https://i.imgur.com/3ZDxjFv.gif" width="300"/>
-</p>
